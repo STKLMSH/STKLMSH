@@ -1,16 +1,22 @@
-## Hi there 👋
+<!-- Ознакомительная статистика -->
+<div align="center">
 
-<!--
-**STKLMSH/STKLMSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://codeforces.com/profile/STKLMSH"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DSTKLMSH&query=%24.result%5B0%5D.rating&label=Codeforces&logo=codeforces&logoColor=white&labelColor=1a1b27&color=1f8acb&style=for-the-badge" alt="Codeforces rating" /></a>
+<a href="https://codeforces.com/profile/STKLMSH"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DSTKLMSH&query=%24.result%5B0%5D.maxRating&label=max&labelColor=1a1b27&color=bb9af7&style=for-the-badge" alt="Codeforces max rating" /></a>
+<a href="https://github.com/STKLMSH?tab=followers"><img src="https://img.shields.io/github/followers/STKLMSH?label=followers&logo=github&labelColor=1a1b27&color=24283b&style=for-the-badge" alt="GitHub followers" /></a>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- Иконки инструментов, с которыми работаю -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,ts,js,html,css,rust,swift,cpp,cs,kotlin,nodejs,anaconda,python,java,postgres,figma,vscode,visualstudio,pycharm,idea&theme=dark&perline=10" alt="skills" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/STKLMSH/STKLMSH/HEAD/profile/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/STKLMSH/STKLMSH/HEAD/profile/snake.svg" />
+    <img src="https://raw.githubusercontent.com/STKLMSH/STKLMSH/HEAD/profile/snake.svg" alt="contribution snake" />
+  </picture>
+</p>
