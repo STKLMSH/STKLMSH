@@ -13,10 +13,3 @@
   <img src="https://skillicons.dev/icons?i=git,ts,js,html,css,rust,swift,cpp,cs,kotlin,nodejs,anaconda,python,java,postgres,figma,vscode,visualstudio,pycharm,idea&theme=dark&perline=10" alt="skills" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/STKLMSH/STKLMSH/HEAD/profile/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/STKLMSH/STKLMSH/HEAD/profile/snake.svg" />
-    <img src="https://raw.githubusercontent.com/STKLMSH/STKLMSH/HEAD/profile/snake.svg" alt="contribution snake" />
-  </picture>
-</p>
